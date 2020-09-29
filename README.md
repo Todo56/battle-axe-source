@@ -16,12 +16,11 @@ Battle Axe Client is a Minecraft Windows 10 Edition (Bedrock) Utility Mod!
 </details>
 
 ## Contributing
-Contributions are always welcome!
-Please read the [contribution guidelines](contributing.md) firs
+Contributions are always welcome, but please read the [contribution guidelines](contributing.md) first!
 
 ## Code used from external sources (not our work)
 
-- [Nothing Yet!](https://google.com) - Nothing yet!.
+- [Nothing Yet!](https://google.com) - Nothing yet!
 
 ## License
 [Please Click here!](https://github.com/BattleAxeClient/battle-axe-source/blob/master/LICENSE.md)
