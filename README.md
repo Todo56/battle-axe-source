@@ -18,9 +18,12 @@ IN game commands coming soon.....?
 ```
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Contributions are always welcome!
+Please read the [contribution guidelines](contributing.md) firs
 
-Please make sure to update changes as appropriate.
+## Code used from external sources (not our work)
+
+- [Nothing Yet!](https://google.com) - Nothing yet!.
 
 ## License
 [Please Click here!](https://github.com/BattleAxeClient/battle-axe-source/blob/master/LICENSE.md)
