@@ -35,7 +35,7 @@ Join our [Discord Server](https://discord.gg)
 
 Copyright (c) 2020 Battle Axe Client
 
-Permission is hereby granted, free of charge, to any person using this, to use this product (utility mod). You may NOT modify this, and/or distrubute this client (or a modified version) without explicit permission from the owner. 
+Permission is hereby granted, free of charge, to any person using this, to use this product (utility mod). You may modify this but not distribute it without the owners explicit consent.
 
 This license may update, if it does, you have to abide by the new/updated license, with or without notice. By not abiding to any license change, you give us the right to order a DMCA Takedown on you, and/or anything we wish. By Using our product, you agree to this License/Terms of Service!
 Using this source code to add or make a new product is not allowed, unless directly stated otherwise.
