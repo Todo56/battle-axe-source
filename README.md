@@ -27,8 +27,8 @@ Contributions are always welcome, but please read the [contribution guidelines](
 
 - [Nothing Yet!](https://google.com) - Nothing yet!
 
-## [Support](https://discord.gg/)
-
+## Support
+Join our [Discord Server](https://discord.gg)
 ## Features
 *More details coming soon!*
 ## [Licensing Information](https://github.com/BattleAxeClient/battle-axe-releases/blob/master/README.md)
