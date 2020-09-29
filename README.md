@@ -2,20 +2,18 @@
 
 Battle Axe Client is a Minecraft Windows 10 Edition (Bedrock) Utility Mod!
 
-## Installation
+<details><summary><b>Installation</b></summary>
 
-1. **Download the Injector** or directly download the `.dll` via the label:
-[![Latest release](https://img.shields.io/github/v/release/BattleAxeClient/battle-axe-releases?include_prereleases&label=Download%20latest%20stable%20release&sort=semver&style=for-the-badge)](https://github.com/BattleAxeClient/battle-axe-releases/releases/latest/)
+1. Install the pre-requisites:
 
-2. **Launch the injector and press "Inject"** (If you want to use the dll, download it from releases, and inject from the dev tab)
+    [Download the Visual Studio C++ Redistributable](https://aka.ms/vs/16/release/VC_redist.x64.exe)
 
-3. Use the Tab-GUI to navigate through all features.
-## Usage
+2. Open and Inject 
 
-```python
-Inject using the injector
-IN game commands coming soon.....?
-```
+    Open the injector, when opened, press the inject button WHILE MC IS OPEN!
+    All Done :)
+
+</details>
 
 ## Contributing
 Contributions are always welcome!
